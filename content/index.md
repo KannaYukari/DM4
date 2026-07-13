@@ -10,3 +10,6 @@ Regras da brincadeira:
 - Não pode enviar músicas de franquias que foram eliminados.
 ## Jogadores
 - [Kanna](Jogadores/Kanna.md)
+- [Octavus](Jogadores/Octavus.md)
+- [Choco](Jogadores/Choco.md)
+- [Gench](Jogadores/Gench.md)
