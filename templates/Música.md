@@ -1,0 +1,4 @@
+
+
+- **Franquia:** 
+- **Jogador:** 
