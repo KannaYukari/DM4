@@ -4,3 +4,9 @@
 
 - **Música:** [AccUhEarts-発-](../Músicas/AccUhEarts-発-.md)
 - **Franquia:** [Manosaba](../Franquias/Manosaba.md)
+
+## B - Battle of Rose
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lA0-YEtoUBQ?si=SKWQgv42YEZfIptW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Battle of Rose](../Músicas/Battle%20of%20Rose.md)
+- **Franquia:** [Rozen Maiden](../Franquias/Rozen%20Maiden.md)

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "urema",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:content/Autores  ",
+      "query": "path:content/Franquias  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 0.857894736842105,
   "linkDistance": 30,
-  "scale": 0.5360530918998704,
-  "close": false
+  "scale": 0.3573687279332467,
+  "close": true
 }
