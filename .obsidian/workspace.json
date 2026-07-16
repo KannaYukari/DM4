@@ -11,10 +11,14 @@
             "id": "6e42436b269e6f18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "content/Jogadores/Octavus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Octavus"
             }
           }
         ]
@@ -176,8 +180,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6e42436b269e6f18",
+  "active": "ea1ee029bfa1176f",
   "lastOpenFiles": [
+    "content/Franquias/Bully.md",
+    "content/Jogadores/Octavus.md",
+    "content/Músicas/Bully Main Theme.md",
+    "content/Jogadores/Buzo.md",
+    "content/Músicas/Bad Luck.md",
+    "content/Franquias/Spider-Man.md",
+    "content/Jogadores/Harkett.md",
+    "content/Músicas/Bravely You.md",
+    "content/Franquias/Charlotte.md",
     "content/Jogadores/Gench.md",
     "content/Músicas/Bulbel.md",
     "content/Franquias/ENDER LILIES.md",
@@ -190,21 +203,12 @@
     "templates/envio.md",
     "content/index.md",
     "content/Franquias/Saga Crepúsculo.md",
-    "content/Jogadores/Harkett.md",
     "content/Músicas/A Thousand Years.md",
     "content/Franquias/Nier.md",
     "content/Músicas/A Beautiful Song.md",
-    "content/Jogadores/Buzo.md",
-    "content/Jogadores/Octavus.md",
     "content/Músicas/A lone prayer.md",
     "content/Franquias/Persona.md",
-    "content/Franquias/Undertale.md",
-    "content/Músicas/Air Waves.md",
-    "content/Franquias/Fear & hunger.md",
-    "content/Músicas/Ashes of war.md",
     "quartz.config.ts",
-    "content/Franquias/Manosaba.md",
-    "content/Músicas/AccUhEarts-発-.md",
     "content/Franquias",
     "Zero ",
     "Jogadores"
