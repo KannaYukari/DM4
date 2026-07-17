@@ -14,5 +14,11 @@
 ## C - Clavar La Espada
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9Onb_z0XPI?si=pd72WdeSpZX6qa1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Clavar La Espada](Clavar%20La%20Espada)
-- **Franquia:** [Bleach](Bleach)
+- **Música:** [Clavar La Espada](../Músicas/Clavar%20La%20Espada.md)
+- **Franquia:** [Bleach](../Franquias/Bleach.md)
+
+## D - DEMON'S SHOT
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRFDW2Pm9nk?si=wwNe6sLiFGJCdkoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [DEMON'S SHOT](../Músicas/DEMON'S%20SHOT.md)
+- **Franquia:** [Drunken Goddess Reflux](../Franquias/Drunken%20Goddess%20Reflux.md)

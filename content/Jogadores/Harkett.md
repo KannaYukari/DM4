@@ -13,5 +13,11 @@
 ## C - Crosses
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x9uy4V8SvPk?si=U7-DkpO2lrFEh56T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Crosses](../../Crosses.md)
-- **Franquia:** [Life is strange](../../Life%20is%20strange.md)
+- **Música:** [Crosses](../Músicas/Crosses.md)
+- **Franquia:** [Life is strange](../Franquias/Life%20is%20strange.md)
+
+## D - Dreaming Mary
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkkUiQAZe68?si=JogmcUhtDqYuvVHp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Dreaming Mary](../Músicas/Dreaming%20Mary.md)
+- **Franquia:** [Dreaming Mary](../Franquias/Dreaming%20Mary.md)

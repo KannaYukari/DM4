@@ -1,4 +1,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqcoienab0I?si=UFJlYdHCLX0v4XsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Curse Zone](Curse%20Zone.md)
+- **Música:** [Curse Zone](../Músicas/Curse%20Zone.md)
 - **Jogador:** [Buzo](content/Jogadores/Buzo.md)

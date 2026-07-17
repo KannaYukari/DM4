@@ -14,5 +14,11 @@
 ## C - Curse Zone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eqcoienab0I?si=UFJlYdHCLX0v4XsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [Curse Zone](../../Curse%20Zone.md)
-- **Franquia:** [Castlevania](../../Castlevania.md)
+- **Música:** [Curse Zone](../Músicas/Curse%20Zone.md)
+- **Franquia:** [Castlevania](../Franquias/Castlevania.md)
+
+## D - Devils Never Cry
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xti_6Bzpa8A?si=PsWVO8wyIa5AziV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Devils Never Cry](../Músicas/Devils%20Never%20Cry.md)
+- **Franquia:** [Devil May Cry](../Franquias/Devil%20May%20Cry.md)
