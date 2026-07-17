@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e42436b269e6f18",
+            "id": "27e50383ada98a33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Jogadores/Octavus.md",
+                "file": "content/Jogadores/Choco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Octavus"
+              "title": "Choco"
             }
           }
         ]
@@ -180,34 +180,34 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ea1ee029bfa1176f",
+  "active": "27e50383ada98a33",
   "lastOpenFiles": [
-    "content/Franquias/Bully.md",
-    "content/Jogadores/Octavus.md",
-    "content/Músicas/Bully Main Theme.md",
+    "content/Jogadores/Harkett.md",
+    "Crosses.md",
+    "Life is strange.md",
     "content/Jogadores/Buzo.md",
+    "Curse Zone.md",
+    "Castlevania.md",
+    "Core.md",
+    "Naku Koro ni.md",
+    "content/Jogadores/Octavus.md",
+    "Compass.md",
+    "Limbus Company.md",
+    "content/Jogadores/Gench.md",
+    "content/Jogadores/Kanna.md",
+    "Clavar La Espada.md",
+    "Bleach.md",
+    "content/Jogadores/Choco.md",
+    "OZMAFIA!!.md",
+    "Compensation.md",
+    "templates/envio.md",
+    "content/Músicas/Bully Main Theme.md",
+    "content/Franquias/Bully.md",
     "content/Músicas/Bad Luck.md",
     "content/Franquias/Spider-Man.md",
-    "content/Jogadores/Harkett.md",
     "content/Músicas/Bravely You.md",
     "content/Franquias/Charlotte.md",
-    "content/Jogadores/Gench.md",
     "content/Músicas/Bulbel.md",
-    "content/Franquias/ENDER LILIES.md",
-    "content/Jogadores/Choco.md",
-    "content/Músicas/Bromeliad.md",
-    "content/Franquias/Minecraft.md",
-    "content/Jogadores/Kanna.md",
-    "content/Músicas/Battle of Rose.md",
-    "content/Franquias/Rozen Maiden.md",
-    "templates/envio.md",
-    "content/index.md",
-    "content/Franquias/Saga Crepúsculo.md",
-    "content/Músicas/A Thousand Years.md",
-    "content/Franquias/Nier.md",
-    "content/Músicas/A Beautiful Song.md",
-    "content/Músicas/A lone prayer.md",
-    "content/Franquias/Persona.md",
     "quartz.config.ts",
     "content/Franquias",
     "Zero ",
