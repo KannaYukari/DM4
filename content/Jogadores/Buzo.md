@@ -22,3 +22,9 @@
 
 - **Música:** [Devils Never Cry](../Músicas/Devils%20Never%20Cry.md)
 - **Franquia:** [Devil May Cry](../Franquias/Devil%20May%20Cry.md)
+
+## E - Epona's Song
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBU2IJ1Mnjw?si=c29r6X--Y6S6SnWt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [[../Músicas/Epona's Song]]
+- **Franquia:** [[../Franquias/Zelda]]

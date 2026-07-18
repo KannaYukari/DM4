@@ -22,3 +22,15 @@
 
 - **Música:** [Daria's Theme](../Músicas/Daria's%20Theme.md)
 - **Franquia:** [Spiritfarer](../Franquias/Spiritfarer.md)
+
+## E - Enter The Mirror
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f6fKJ6w04P8?si=ZMmw3wYtQ5ANkRSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Enter The Mirror](../Músicas/Enter%20The%20Mirror.md)
+- **Franquia:** [Dandy Ace](../Franquias/Dandy%20Ace.md)
+
+## F - Fly Away
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lC3y4jq6V0?si=u9pkVvBAzuKGCQ4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Fly Away](../Músicas/Fly%20Away.md)
+- **Franquia:** [Panty and Stocking with Garterbelt](../Franquias/Panty%20and%20Stocking%20with%20Garterbelt.md)
