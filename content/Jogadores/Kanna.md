@@ -34,3 +34,15 @@
 
 - **Música:** [Filament](../Músicas/Filament.md)
 - **Franquia:** [Mirai Nikki](../Franquias/Mirai%20Nikki.md)
+
+## G - Graze the Roof
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9xSFk1ZDgw?si=Fi-s8JnhvcpW0vJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Graze the Roof](../Músicas/Graze%20the%20Roof.md)
+- **Franquia:** [Plants vs. zombies](../Franquias/Plants%20vs.%20zombies.md)
+
+## H - Hikaru Nara
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWRPihlt2ho?si=Ja-kCz5C5EUNDjxv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Hikaru Nara](../Músicas/Hikaru%20Nara.md)
+- **Franquia:** [Shigatsu Wa Kimi No Uso](../Franquias/Shigatsu%20Wa%20Kimi%20No%20Uso.md)

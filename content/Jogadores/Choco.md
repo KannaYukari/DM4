@@ -34,3 +34,15 @@
 
 - **Música:** [Fly Away](../Músicas/Fly%20Away.md)
 - **Franquia:** [Panty and Stocking with Garterbelt](../Franquias/Panty%20and%20Stocking%20with%20Garterbelt.md)
+
+## G - Going Nowhere Fast
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ke6dmwFpy78?si=hscVkrorFN1Rh4Yj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Going Nowhere Fast](../Músicas/Going%20Nowhere%20Fast.md)
+- **Franquia:** [Skullgirls](../Franquias/Skullgirls.md)
+
+## H - Heaven's Light/Hellfire
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wYleCKxV_WA?si=Xewpl425PVcAsWro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Heaven's Light/Hellfire](../Músicas/Heaven's%20Light;%20Hellfire.md)
+- **Franquia:** [O Corcunda de Notre Dame](../Franquias/O%20Corcunda%20de%20Notre%20Dame.md)

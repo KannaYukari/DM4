@@ -26,5 +26,22 @@
 ## E - Epona's Song
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBU2IJ1Mnjw?si=c29r6X--Y6S6SnWt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **Música:** [[../Músicas/Epona's Song]]
-- **Franquia:** [[../Franquias/Zelda]]
+- **Música:** [Epona's Song](../Músicas/Epona's%20Song.md)
+- **Franquia:** [Zelda](../Franquias/Zelda.md)
+## F - Four Seasons
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_ydgGveM_g?si=y-FjeTkGuvgD8BbL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Four Seasons](../Músicas/Four%20Seasons.md)
+- **Franquia:** [Avatar](../Franquias/Avatar.md)
+
+## G - Get Up, Luffy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUFr7rN6oOA?si=QWrdrfPErfs4snkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Get Up, Luffy](../Músicas/Get%20Up,%20Luffy.md)
+- **Franquia:** [One Piece](../Franquias/One%20Piece.md)
+
+## H - Here I Am
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q9ikblV9Cyg?si=IAK4f2ZxFQWAKOuR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Here I Am](../Músicas/Here%20I%20Am.md)
+- **Franquia:** [Spirit](../Franquias/Spirit.md)

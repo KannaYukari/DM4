@@ -27,3 +27,15 @@
 
 - **Música:** [Exploration](../Músicas/Exploration.md)
 - **Franquia:** [Coraline](../Franquias/Coraline.md)
+
+## F - Falling Roses
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zjNPD2pRutM?si=dH1T_aja2VNnYypC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Falling Roses](../Músicas/Falling%20Roses.md)
+- **Franquia:** [Show by Rock!!!](../Franquias/Show%20by%20Rock!!!.md)
+
+## G - Gangsta's Paradise
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fPO76Jlnz6c?si=jZ2EeY7KgLjZMPRP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- **Música:** [Gangsta's Paradise](../Músicas/Gangsta's%20Paradise.md)
+- **Franquia:** [Mentes Perigosas](../Franquias/Mentes%20Perigosas.md)
